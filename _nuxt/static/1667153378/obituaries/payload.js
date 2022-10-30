@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/obituaries", {data:[{}],fetch:{},mutations:void 0});
