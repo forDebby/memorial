@@ -8,7 +8,9 @@ export default {
   },
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
-
+  router: {
+    base: 'https://fordebby.github.io/memorial/'
+  },
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
     htmlAttrs: {
