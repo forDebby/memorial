@@ -8,7 +8,7 @@
       <h1 class="title">Obituaries</h1>
       <div class="o-entry">
         <p>
-          Deborah Lee Simmons was born in Ajo, Arizona, in 1962, to Hilah Lende (teacher) and Norman (biologist).
+          Deborah Lee Simmons was born in Ajo, Arizona, in 1962, to Hilah (teacher) and Norman (biologist) Simmons.
           Followed two and a half years later by brother David, she began her teaching career early with this new
           sibling who, though not the best student, thrived under her tutelage. It was not long before she started
           &lsquo;organizing&rsquo; her family.
