@@ -9,19 +9,17 @@
       
       <p><em>2 PM (MT) Saturday 12th November 2022 </em> in Pincher Creek United Church (<a href="https://www.google.com/maps/dir//972+Police+Ave,+Pincher+Creek,+AB+T0K+1W0/@49.4847493,-114.0163185,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x536f0a6555e03d5f:0x33f0658439434592!2m2!1d-113.9462789!2d49.4847704">Directions</a>).</p> 
       <p>
-        We will also live stream the service so everyone who wants to attend will be able to do so virtually. We will also hold a celebration of
+        We will also live stream the service so everyone who wants to attend will be able to do so virtually. There are also plans to celebrate
         Debby's life later in the NWT.</p>
       <p class="highlight"><a href="https://forms.gle/gXuoDZ95VqBU9J3a8">RSVP</a></p>
       <h2>Church Service <span>TBD</span></h2>
       <ul class="fa-ul">
         <ListItem>Service starts at 2 PM (MT)</ListItem>
         <ListItem>Service details to follow</ListItem>
-        <ListItem>Closing prayer &amp; Grace blessing</ListItem>
       </ul>
       <h2> Social gathering <span>TBD</span></h2>
       <ul class="fa-ul">
-        <ListItem>Welcome</ListItem>
-        <ListItem>Tribute</ListItem>
+        <ListItem>Details to follow</ListItem>
       </ul>
       <!-- CONTENT END -->
     </div>
