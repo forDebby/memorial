@@ -5,16 +5,26 @@
     </div>
     <div class="section details">
       <!-- CONTENT START -->
-      <h1 class="title">Order of service</h1>    
-      
-      <p><em>2 PM (MT) Saturday 12th November 2022 </em> in Pincher Creek United Church (<a href="https://www.google.com/maps/dir//972+Police+Ave,+Pincher+Creek,+AB+T0K+1W0/@49.4847493,-114.0163185,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x536f0a6555e03d5f:0x33f0658439434592!2m2!1d-113.9462789!2d49.4847704">Directions</a>).</p> 
-      <p class="highlight"><a href="https://forms.gle/gXuoDZ95VqBU9J3a8">RSVP</a></p>      
+      <h1 class="title">Service</h1>
+
+      <p> A memorial service for Deborah Lee Simmons will be held on <em>Saturday, November 12 at 2pm (MT)</em> at the Pincher
+        Creek United Church (972 Police Ave, Pincher Creek, Alberta (<a
+        href="https://www.google.com/maps/dir//972+Police+Ave,+Pincher+Creek,+AB+T0K+1W0/@49.4847493,-114.0163185,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x536f0a6555e03d5f:0x33f0658439434592!2m2!1d-113.9462789!2d49.4847704">Directions</a>).
+        This will be followed by a gathering at the [TBD].
+      </p>
+      <p class="highlight"><a href="https://forms.gle/gXuoDZ95VqBU9J3a8">RSVP</a></p>
+
+      <p> The service will be livestreamed from this website for those who would like to attend remotely.</p> 
+
       <p>
-        We will also live stream the service so everyone who wants to attend will be able to do so virtually. There are also plans to celebrate
-        Debby's life later in the NWT.</p>
+      We will also hold a celebration of Debby's life in the Northwest Territories in the future (details to be
+      determined at a later date.)</p>
+
+
       <h2>Church Service <span>TBD</span></h2>
       <ul class="fa-ul">
         <ListItem>Service starts at 2 PM (MT)</ListItem>
+        <ListItem>The Pincher Creek United Church. 972 Police Ave, Pincher Creek, AB</ListItem>
         <ListItem>Service details to follow</ListItem>
       </ul>
       <h2> Social gathering <span>TBD</span></h2>

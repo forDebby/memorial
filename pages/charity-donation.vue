@@ -6,18 +6,25 @@
     <div class="section details">
       <!-- CONTENT START -->
       <h1 class="title">Charity Donations</h1>
-      <p>Instead of flowers, please consider making a donation to :</p>
-      <h2>Dene Ts'ı̨lı̨ - Dene Way of Life Fund</h2>
+      <p>In lieu of flowers, please consider donating to Debby’s charitable initiative:</p>
+      <h3>Dene Ts'ı̨lı̨ - Dene Way of Life Fund</h3>
+      <a class="button" target="_blank" rel=”noopener”
+        href="https://makewaygifts.secure.force.com/donate/?id=a3061000002oeAh">Donate to the Dene Way of Life Fund</a>
+
       <p>
-        Started by Debby, this is a scholarship fund for Sahtú beneficiaries. The Fund supports community members
-        going out on the land. It also provides academic scholarships for community members pursuing
-        higher education.
+        Debby knew that spending time on the land is critical to the ongoing regeneration of Indigenous knowledge and
+        practices, which are in turn critical to Indigenous self-determination. She also knew that there are all sorts
+        of barriers to spending time on the land. To address these barriers, including gaps in available funding, Deb
+        established the Dene ts’ı̨lı̨ - Dene Way of Life Fund.
+      </p>
+      <p>
+        Debby’s vision for this Fund was to support young people to become capable and confident land users. Your
+        support will allow Dene and Métis youth from across the Sahtú region to spend time on the land living with, and
+        learning from, elders and knowledge holders, and in doing so, will help bring Debby’s vision to life.
       </p>
       <p>
         In memory of Deborah Simmons, donations will be matched up to a total of $500,000.
       </p>
-      <a class="button" target="_blank" rel=”noopener”
-        href="https://makewaygifts.secure.force.com/donate/?id=a3061000002oeAh">Donate to the Dene Way of Life Fund</a>
 
       <p>If you would like to pay by cheque, please make the cheque payable to: </p>
       <p>
