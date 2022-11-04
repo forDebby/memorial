@@ -140,38 +140,37 @@ h2,
 p {
     margin: 0;
     padding: 0;
-    font: 14px Baskerville, "Palatino Linotype", "Times New Roman", Times, serif;
+    font: 14px Baskerville, Garamond, "Palatino Linotype", "Times New Roman", Times, serif;
+    line-height: calc(1ex / 0.32);
+    padding: 0.5rem 0rem 0.5rem 1.5rem;
 }
 
 .poem {
+    background-color: white;
+    color: black;
     margin: auto;
     padding: 20px 0;
     text-align: left;
     width: 390px;
 }
 
-.poem h1,
-h2 {
+h1, h2, h4 {
     font-weight: normal;
+    color: black;
+    text-align: center;
 }
 
 
 .poem h1 {
     font-size: 34px;
     line-height: 1.2;
-    margin-bottom: 10px;
 }
 
-.poem h2 {
-    font-size: 18px;
+.poem h4 {
+    font-size: 18px;    
     font-style: italic;
     margin-bottom: 10px;
     text-align: center;    
-}
-
-p {
-    line-height: 1.5;
-    margin-bottom: 15px;
 }
 
 .poem h2+p:first-letter {
