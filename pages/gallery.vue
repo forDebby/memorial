@@ -48,11 +48,9 @@ import 'vue-cool-lightbox/dist/vue-cool-lightbox.min.css'
 
   methods: {
     importAll(r) {
-      console.log(r)
       r.keys().forEach(key => (this.images.push(r(key))));
     },
     importThumbs(r) {
-      console.log(r)
       r.keys().forEach(key => (this.thumbs.push(r(key))));
     },
   },

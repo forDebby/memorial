@@ -298,6 +298,29 @@
         </p>
         <h4>Micheline Manseau</h4>
       </div>
+      <div class="astrodivider">
+        <div class="astrodividermask"></div><span><i>&#10038;</i></span>
+      </div>
+      <div class="o-entry">
+        <p>
+          The thought of Deb (Deborah L Simmons) not walking on this earth is unfathomable for me at this moment even
+          though in my heart I know her spirit is stamped into every nook and cranny in all the places blessed by her
+          presence and in all of us who witnessed her passion. I take comfort in the tributes pouring in, including this
+          interview and the CBC obituary as I try to come to grips with a deep sadness. The memories and the
+          stories&#8230; the music, the laughter and the learning from over 25 years of friendship will take some time
+          to inventory and work through in order to celebrate her life alongside the loss. For now I send as much love
+          as I can muster to Hilah, David, Danny and Sarah, to Deb&rsquo;s nieces and nephews and to her partner Morris
+          and all her many many friends (oh so many) from everywhere and anywhere but especially in three of her most
+          special of places&#8230; Toronto, her political honing stone&#8230; her beloved Sahtu&#8230; and her most
+          cherished home among homes, the Gladstone Valley. <br />
+          Sweet dreams Debbie.
+        </p>
+        <h4>Robert Kershaw</h4>
+      </div>
+      <div class="astrodivider">
+        <div class="astrodividermask"></div><span><i>&#10038;</i></span>
+      </div>
+
       <div class="o-entry">
         <p>
         </p>
@@ -308,6 +331,7 @@
         </p>
         <h4></h4>
       </div>
+
       <!-- CONTENT END -->
     </div>
   </div>

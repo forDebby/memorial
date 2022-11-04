@@ -268,8 +268,6 @@ ul {
   text-align: left;
   font-size: 16px;
 
-  li {}
-
   a {
     color: $highlight;
     text-decoration: none;
