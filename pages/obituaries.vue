@@ -276,6 +276,30 @@
 
       <div class="o-entry">
         <p>
+          I first met Deb 20 years ago when she came to teach at the University of Manitoba and right away we got
+          working on projects, navigating through the excitement and challenges of the early years of our careers. Deb
+          was deeply interested in social issues and had a unique ability to capture and synthesize immense amount of
+          information. She loved to learn from people most, whether they were ranchers, hunters, elders or scholars, she
+          was able to transpose, translate, connect and elevate what was said. She didn’t miss a word or an idea and
+          from these ideas, she moved mountains. She wrote letters, briefing notes, proposals, conference proceedings,
+          journal articles and brought in the resources needed to help move the agenda forward. She contributed her
+          talents to many endeavors, and found beauty in all she touched. Her latest contributions embodied new
+          paradigms in wildlife conservation through indigenous-led conservation and interdisciplinary research.
+          Although this seems simple on paper, new ways had to be forged for all aspects of the work, from defining the
+          objectives to deciding on how the projects would be governed. Among other things, she initiated a series of
+          community-led conservation plans, Indigenous guardians training programs and public listening sessions in the
+          Sahtú region, which are considered by many to be the new models.
+        </p>
+        <p>
+          In reflecting on her too short journey, it is inspiring to see how much she contributed to people’s lives. She
+          was happy helping with firewood, cooking dinner, cleaning fish, making dry meat, hiking and skiing in the
+          mountains and ski-dooing across Great Bear Lake. She brought family, friends and colleagues together for meals
+          and outings at every occasion. She will be greatly missed.
+        </p>
+        <h4>Micheline Manseau</h4>
+      </div>
+      <div class="o-entry">
+        <p>
         </p>
         <h4></h4>
       </div>
@@ -284,7 +308,6 @@
         </p>
         <h4></h4>
       </div>
-
       <!-- CONTENT END -->
     </div>
   </div>
