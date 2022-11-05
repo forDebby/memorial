@@ -7,78 +7,61 @@
       <!-- CONTENT START -->
       <h1 class="title">Obituaries</h1>
       <div class="o-entry">
-        <p>
-          Deborah Lee Simmons was born in Ajo, Arizona, in 1962, to Hilah (teacher) and Norman (biologist) Simmons.
-          Followed two and a half years later by brother David, she began her teaching career early with this new
-          sibling who, though not the best student, thrived under her tutelage. It was not long before she started
-          &lsquo;organizing&rsquo; her family.
-          We
-          &nbsp;were an unruly lot but that did not stop her from trying.
-        </p>
-        <p>
-          In &lsquo;66 the family packed the station wagon and moved to Ft. Smith in the Northwest
-          Territories, &nbsp; an idyllic little town on the banks of the Slave River. Early formative experiences
-          include the summers spent on the banks of the Keele River in the Mackenzie Mountains where Deb was first
-          introduced to the Northern &ldquo;bush&rdquo;. Norman was doing research on Dall Sheep for the Canadian
-          Wildlife Service supported by three Mountain Dene families from Tulita, a town on the Mackenzie River. Their
-          guidance was essential to the success of his research, providing expert knowledge on the land, its wildlife
-          and its people. The Simmons clan was treated like family and had the unique opportunity to learn about the
-          traditional skills, stories and philosophies of the Saht&uacute; Dene. These experiences likely inspired
-          what would ultimately become Deborah&rsquo;s mission in the North, namely to support and strengthen Dene
-          culture, language, and self-governance; and to ensure the participation of the Dene people in the management
-          of their natural resources.
-        </p>
-        <p>
-          The year 1973 brought her brother Daniel into the fold. In 1975 the Simmons family moved
-          further north to Yellowknife on the shore of Great Slave Lake and a few months later her sister Sarah was
-          born.
-        </p>
-        <p>
-          During this time, Deb distinguished herself both as a top student and through her many
-          extra-curricular interests such as cross country skiing, camping, and canoeing, the latter a favourite
-          family activity. Her mother Hilah surrounded the family with music and Deb learned piano and played french
-          horn, then flute, in the Sir John Franklin High School band. Between these pursuits she could almost always
-          be found with a book in hand. She was an absolutely voracious reader. In school, Deb befriended the quirky,
-          talented and interesting kids, a trait that would continue throughout her life as evidenced by her sprawling
-          network of unique individuals. &nbsp;Her love of languages inspired her to do a French immersion semester in
-          Caraquet, New Brunswick. At graduation, Deb was second in her class and selected as Valedictorian.
-        </p>
-        <p>
-          Deb&rsquo;s post-secondary career was the ground of her true flowering as a thinker, writer, activist,
-          and teacher. She was a committed socialist with a vision to build a just society for all by advancing and
+        <p>Deb started trying to organize her family at about age 5. We were an unruly lot but that did not stop her
+          from trying.</p>
+
+        <p>Born 1962 in Ajo Arizona to her parents Hilah (teacher) and Norman (biologist), Deborah Lee was followed two
+          and a half years later by brother David. She began her teaching career early with her new sibling who was not
+          the best student, but thrived in any case under her tutelage.</p>
+
+        <p>In &lsquo;66 the family packed the station wagon and moved to Ft. Smith in the Northwest Territories, an
+          idyllic little town on the banks of the Slave River. Early formative experiences include the summers spent on
+          the banks of the Keele River in the Mackenzie Mountains where Deb was first introduced to the Northern
+          &ldquo;bush&rdquo;. Norman was doing research on Dall Sheep for the Canadian Wildlife Service supported by
+          three Mountain Dene families from Tulita, a town on the Mackenzie River. Their guidance was essential to the
+          success of his research, providing expert knowledge on the land, its wildlife and its people. The Simmons clan
+          was treated like family and had the unique opportunity to learn about the traditional skills, stories and
+          philosophies of the Saht&uacute; Dene. These experiences likely inspired what would ultimately become
+          Deborah&rsquo;s mission in the North, namely to support and strengthen Dene culture, language, and
+          self-governance; and to ensure the participation of the Dene people in the management of their natural
+          resources.</p>
+
+        <p>The year 1973 brought her brother Daniel into the fold. In 1975 the Simmons family moved further north to
+          Yellowknife on the shore of Great Slave Lake and a few months later her sister Sarah was born.</p>
+
+        <p>During this time, Deb distinguished herself both as a top student and through her many extra-curricular
+          interests such as cross country skiing, camping, and canoeing, the latter a favourite family activity. Her
+          mother Hilah surrounded the family with music and Deb learned piano and played french horn, then flute, in the
+          Sir John Franklin High School band. Between these pursuits she could almost always be found with a book in
+          hand. She was an absolutely voracious reader. In school, Deb befriended the quirky, talented and interesting
+          kids, a trait that would continue throughout her life as evidenced by her sprawling network of unique
+          individuals. Her love of languages inspired her to do a French immersion semester in Caraquet, New Brunswick.
+          At graduation, Deb was second in her class and selected as Valedictorian.</p>
+
+        <p>Deb&rsquo;s post-secondary career was the ground of her true flowering as a thinker, writer, activist, and
+          teacher. She was a committed socialist with a vision to build a just society for all by advancing and
           amplifying the voices of the dispossessed. Following the completion of her PhD Dissertation on the political
-          economy of Indigenous resistance in the S
-          ocial and Political Thought program at York University
-          &nbsp;in Toronto, she went on to teach at the University of Manitoba.
-        </p>
-        <p>
-          After this stint in academia, Deb returned to her childhood roots with a job as a social science
-          researcher in the Saht&uacute; region, working with some of the same families that her father had worked
-          with decades before.
-          Picking up the baton from him, she advocated for the full participation of the Dene in conservation and
-          land management.
-          &nbsp;Her principled commitment to indigenous self-determination brought her, ultimately, to the
-          position of Executive Director of the Saht&uacute; Renewable Resources board. In this role, she was able to
-          effect lasting change, notably by having t
-          he co-management of natural resources recognized as a right within the framework of land claims
-          agreements
-          . Along with her tireless struggle to have indigenous rights recognized by the legal
-          authorities that would rule the land, she championed Dene ways of knowing and being, namely by integrating
-          Dene language and oral histories through all projects in which she was involved.
-        </p>
-        <p>
-          Her colleagues within academic, professional, and activist circles have spoken beautifully of
-          Deb&rsquo;s tireless work ethic, commitment to her ideals and innate good nature (see below). Her capacity
-          to organize and network, along with her joyous and kind spirit, drew many to her. &nbsp;Though always
-          gentle, she was never deterred. This magnetic energy surely emanated from her huge heart. &nbsp;
-        </p>
-        <p>
-          Deborah was a pillar of her family and will be sorely missed. She is survived by her mother
-          Hilah, her partner Morris, her siblings and their children. She was a fun and loving auntie not only to Ruby
-          and Sadie, (Sarah), and Noah, Hilah and Remi (Danny), but also to Morris&rsquo; niece Jennie and to many
-          young people in the Saht&uacute; on whom she made a lasting impact. In her life, cut far too short, Debby
-          passionately planted many seeds that already are blooming. May she be remembered not only for her legacy but
-          for the irrepressible joy and passion she brought to bear throughout her life.
+          economy of Indigenous resistance in the Social and Political Thought program at York University in Toronto,
+          she went on to teach at the University of Manitoba.</p>
+
+        <p>After this stint in academia, Deb returned to her childhood roots with a job as a social science researcher
+          in the Saht&uacute; region, working with some of the same families that her father had worked with decades
+          before. Picking up the baton from him, she advocated for the full participation of the Dene in conservation
+          and land management. Her principled commitment to indigenous self-determination brought her, ultimately, to
+          the position of Executive Director of the Saht&uacute; Renewable Resources board. In this role, she was able
+          to effect lasting change, notably by having the co-management of natural resources recognized as a right
+          within the framework of land claims agreements. Along with her tireless struggle to have indigenous rights
+          recognized by the legal authorities that would rule the land, she championed Dene ways of knowing and being,
+          namely by integrating Dene language and oral histories through all projects in which she was involved.</p>
+
+        <p>Her colleagues, academic, professional and activist have spoken beautifully of Deb&rsquo;s passion for her
+          work, commitment to her ideals and innate good nature.(see below). It is clear that her capacity to organize
+          and network along with her joyous, and kind spirit drew many to her to collaborate. She was always gentle but
+          absolutely would not be deterred from her goals. In the end all of this emanated from a huge heart.</p>
+
+        <p>Deborah was a pillar of her family and will be sorely missed. We are left with her afterimage as with a
+          bright flash in the dark that persists in the eye. There is a desire to take possession of her memory but that
+          cannot be. Her memory must be shared by all whom she touched.<br />
         </p>
       </div>
       <div class="astrodivider">
@@ -303,22 +286,8 @@
       </div>
       <div class="o-entry">
         <p>
-          The thought of Deb (Deborah L Simmons) not walking on this earth is unfathomable for me at this moment even
-          though in my heart I know her spirit is stamped into every nook and cranny in all the places blessed by her
-          presence and in all of us who witnessed her passion. I take comfort in the tributes pouring in, including this
-          interview and the CBC obituary as I try to come to grips with a deep sadness. The memories and the
-          stories&#8230; the music, the laughter and the learning from over 25 years of friendship will take some time
-          to inventory and work through in order to celebrate her life alongside the loss. For now I send as much love
-          as I can muster to Hilah, David, Danny and Sarah, to Deb&rsquo;s nieces and nephews and to her partner Morris
-          and all her many many friends (oh so many) from everywhere and anywhere but especially in three of her most
-          special of places&#8230; Toronto, her political honing stone&#8230; her beloved Sahtu&#8230; and her most
-          cherished home among homes, the Gladstone Valley. <br />
-          Sweet dreams Debbie.
         </p>
-        <h4>Robert Kershaw</h4>
-      </div>
-      <div class="astrodivider">
-        <div class="astrodividermask"></div><span><i>&#10038;</i></span>
+        <h4></h4>
       </div>
 
       <div class="o-entry">

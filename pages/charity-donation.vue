@@ -15,10 +15,10 @@
         Debby knew that spending time on the land is critical to the ongoing regeneration of Indigenous knowledge and
         practices, which are in turn critical to Indigenous self-determination. She also knew that there are all sorts
         of barriers to spending time on the land. To address these barriers, including gaps in available funding, Deb
-        established the Dene ts’ı̨lı̨ - Dene Way of Life Fund.
+        established the Dene Ts’ı̨lı̨ - Dene Way of Life Fund.
       </p>
       <p>
-        Debby’s vision for this Fund was to support young people to become capable and confident land users. Your
+        Debby’s vision for this Fund was to support young people to become capable and confident living on the land. Your
         support will allow Dene and Métis youth from across the Sahtú region to spend time on the land living with, and
         learning from, elders and knowledge holders, and in doing so, will help bring Debby’s vision to life.
       </p>
