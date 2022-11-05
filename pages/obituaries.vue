@@ -5,7 +5,7 @@
     </div>
     <div class="section details">
       <!-- CONTENT START -->
-      <h1 class="title">Obituaries</h1>
+      <h1 class="title">Obituary and Tributes</h1>
       <div class="o-entry">
         <p>Deb started trying to organize her family at about age 5. We were an unruly lot but that did not stop her
           from trying.</p>

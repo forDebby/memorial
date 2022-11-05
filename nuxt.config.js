@@ -23,7 +23,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Find details on the funeral arrangements for ' + name }
+      { hid: 'description', name: 'description', content: 'Find details on the life and legacy of ' + name }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
