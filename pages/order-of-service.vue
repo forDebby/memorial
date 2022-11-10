@@ -25,11 +25,12 @@
       <ul class="fa-ul">
         <ListItem>Service starts at 2 PM (MT)</ListItem>
         <ListItem>The Pincher Creek United Church. 972 Police Ave, Pincher Creek, AB</ListItem>
-        <ListItem>Service details to follow</ListItem>
       </ul>
       <h2> Social gathering <span>TBD</span></h2>
       <ul class="fa-ul">
-        <ListItem>Details to follow</ListItem>
+        <ListItem>Food and Drink will follow the serivce in the United Church basement.</ListItem>
+        <ListItem>Bring an instrument and your Debby stories!</ListItem>
+        <ListItem>Beer and wine is permitted!</ListItem>                
       </ul>
       <!-- CONTENT END -->
     </div>
