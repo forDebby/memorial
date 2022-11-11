@@ -14,8 +14,8 @@
       </p>
       <p class="highlight"><a href="https://forms.gle/gXuoDZ95VqBU9J3a8">RSVP</a></p>
 
-      <p> The service will be livestreamed from this website for those who would like to attend remotely.</p> 
-
+      <p> The service will be livestreamed for those who would like to attend remotely.</p> 
+      <a class="button" target="_blank" rel=”noopener” href="https://youtu.be/ga8wEr2tjFc">Watch on YouTube</a>
       <p>
       We will also hold a celebration of Debby's life in the Northwest Territories in the future (details to be
       determined at a later date).</p>
